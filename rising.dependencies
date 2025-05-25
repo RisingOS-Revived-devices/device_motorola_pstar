@@ -1,0 +1,37 @@
+[
+  {
+    "remote":       "devices",
+    "repository":   "device_motorola_sm8250-common",
+    "target_path":  "device/motorola/sm8250-common"
+    "revision":     "lineage-22.2",
+    "clone-depth":  "1"
+  },
+  {
+    "remote":       "devices",
+    "repository":   "hardware_motorola",
+    "target_path":  "hardware/motorola",
+    "revision":     "fifteen",
+    "clone-depth":  "1"
+  },
+  {
+    "remote":       "devices",
+    "repository":   "kernel_motorola_sm8250",
+    "target_path":  "kernel/motorola/sm8250"
+    "revision":     "lineage-22.2",
+    "clone-depth":  "1"
+  }'
+  {
+    "remote":       "devices",
+    "repository":   "vendor_motorola_sm8250-common",
+    "target_path":  "vendor/motorola/sm8250-common",
+    "revision":     "lineage-22.2",
+    "clone-depth":  "1"
+   },
+   {
+    "remote":       "devices",
+    "repository":   "vendor_motorola_pstar",
+    "target_path":  "vendor/motorola/pstar",
+    "revision":     "lineage-22.2",
+    "clone-depth":  "1"
+   }
+]
